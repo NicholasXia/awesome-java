@@ -1,30 +1,7 @@
 # Awesome Java [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Java相关的库/框架/软件
-
 - [Awesome Java](#awesome-java)
-<<<<<<< HEAD
-    - [Ancients-遗留老项目](#ancients)
-    - [Bean Mapping-Bean映射](#bean-mapping)
-    - [Build-构建](#build)
-    - [Bytecode Manipulation-字节码操作](#bytecode-manipulation)
-    - [Cluster Management-集群管理](#cluster-management)
-    - [Code Analysis-代码分析](#code-analysis)
-    - [Code Coverage-代码覆盖](#code-coverage)
-    - [Command-line Argument Parsers-命令行参数解析](#command-line-argument-parsers)
-    - [Compiler-compiler-编译器](#compiler-compiler)
-    - [Configuration-配置管理](#configuration)
-    - [Constraint Satisfaction Problem Solver](#constraint-satisfaction-problem-solver)
-    - [Continuous Integration-持续集成](#continuous-integration)
-    - [CSV](#csv)
-    - [Data structures-数据结构](#data-structures)
-    - [Database-数据库](#database)
-    - [Date and Time-日期和时间](#date-and-time)
-    - [Dependency Injection-依赖注入](#dependency-injection)
-    - [Development-开发](#development)
-    - [Distributed Applications-分布式应用](#distributed-applications)
-    - [Distributed Databases-分布式数据库](#distributed-databases)
-=======
     - [Bean Mapping](#bean-mapping)
     - [Build](#build)
     - [Bytecode Manipulation](#bytecode-manipulation)
@@ -45,7 +22,6 @@ Java相关的库/框架/软件
     - [Development](#development)
     - [Distributed Applications](#distributed-applications)
     - [Distributed Transactions](#distributed-transactions)
->>>>>>> akullpp/master
     - [Distribution](#distribution)
     - [Document Processing-文档解析](#document-processing)
     - [Formal Verification](#formal-verification)
@@ -53,31 +29,24 @@ Java相关的库/框架/软件
     - [Game Development-游戏开发](#game-development)
     - [Geospatial-地理位置](#geospatial)
     - [GUI](#gui)
-<<<<<<< HEAD
-    - [High Performance-高性能](#high-performance)
-=======
     - [High Performance](#high-performance)
     - [HTTP Clients](#http-clients)
     - [Hypermedia Types](#hypermedia-types)
->>>>>>> akullpp/master
     - [IDE](#ide)
     - [Imagery](#imagery)
     - [JSON Processing](#json-processing)
     - [JSON](#json)
     - [JVM and JDK](#jvm-and-jdk)
     - [Logging](#logging)
-<<<<<<< HEAD
+
     - [Machine Learning-机器学习](#machine-learning)
     - [Messaging-消息](#messaging)
     - [Miscellaneous-杂项](#miscellaneous)
     - [Monitoring-监控](#monitoring)
-=======
-    - [Machine Learning](#machine-learning)
     - [Messaging](#messaging)
     - [Microservice](#microservice)
     - [Miscellaneous](#miscellaneous)
     - [Monitoring](#monitoring)
->>>>>>> akullpp/master
     - [Native](#native)
     - [Natural Language Processing-自然语言处理](#natural-language-processing)
     - [Networking-网络](#networking)
@@ -87,7 +56,6 @@ Java相关的库/框架/软件
     - [Performance analysis-性能分析](#performance-analysis)
     - [Platform-平台](#platform)
     - [Reactive libraries](#reactive-libraries)
-<<<<<<< HEAD
     - [REST Frameworks-REST框架](#rest-frameworks)
     - [Science-科学](#science)
     - [Search-搜索](#search)
@@ -99,7 +67,6 @@ Java相关的库/框架/软件
     - [Utility-工具](#utility)
     - [Web Crawling-web爬虫](#web-crawling)
     - [Web Frameworks-web开发框架](#web-frameworks)
-=======
     - [REST Frameworks](#rest-frameworks)
     - [Science](#science)
     - [Search](#search)
@@ -107,23 +74,15 @@ Java相关的库/框架/软件
     - [Serialization](#serialization)
     - [Server](#server)
     - [Template Engine](#template-engine)
-    - [Testing](#testing)
-    - [Utility](#utility)
     - [Version Managers](#version-managers)
-    - [Web Crawling](#web-crawling)
-    - [Web Frameworks](#web-frameworks)
->>>>>>> akullpp/master
+    -
 - [Resources](#resources)
     - [Awesome Lists](#awesome-lists)
     - [Communities](#communities)
     - [Frontends](#frontends)
-<<<<<<< HEAD
     - [Influential Books-相关书籍](#influential-books)
     - [Podcasts](#podcasts)
-=======
-    - [Influential Books](#influential-books)
     - [Podcasts and Screencasts](#podcasts-and-screencasts)
->>>>>>> akullpp/master
     - [Twitter](#twitter)
     - [Websites-网站](#websites)
 - [Contributing](#contributing)
@@ -149,7 +108,7 @@ Java相关的库/框架/软件
 * [Apache Maven](http://maven.apache.org/) - java标准构建工具
 * [Bazel](http://bazel.io) - google的构建工具
 * [Gradle](http://gradle.org/) -基于Groovy取代xml的构建工具
-* 
+*
 =======
 * [Apache Maven](https://maven.apache.org/) - Declarative build and dependency management that favors convention over configuration. It might be preferable to Apache Ant, which uses a rather procedural approach and can be difficult to maintain.
 * [Bazel](https://bazel.io) - Tool from Google that builds code quickly and reliably.
