@@ -60,14 +60,14 @@ Java相关的库/框架/软件
     - [Utility-工具](#utility)
     - [Web Crawling-web爬虫](#web-crawling)
     - [Web Frameworks-web开发框架](#web-frameworks)
-    - [Resources](#resources)
+- [Resources](#resources)
     - [Communities](#communities)
     - [Frontends](#frontends)
     - [Influential Books-相关书籍](#influential-books)
     - [Podcasts](#podcasts)
     - [Twitter](#twitter)
     - [Websites-网站](#websites)
-    - [Contributing](#contributing)
+- [Contributing](#contributing)
 
 ## Ancients
 
