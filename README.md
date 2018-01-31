@@ -1,18 +1,18 @@
 # Awesome Java [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Java frameworks, libraries and software.
+Java相关的库/框架/软件
 
 - [Awesome Java](#awesome-java)
-    - [Ancients](#ancients)
-    - [Bean Mapping](#bean-mapping)
-    - [Build](#build)
-    - [Bytecode Manipulation](#bytecode-manipulation)
-    - [Cluster Management](#cluster-management)
-    - [Code Analysis](#code-analysis)
-    - [Code Coverage](#code-coverage)
-    - [Command-line Argument Parsers](#command-line-argument-parsers)
-    - [Compiler-compiler](#compiler-compiler)
-    - [Configuration](#configuration)
+    - [Ancients-遗留老项目](#ancients)
+    - [Bean Mapping-Bean映射](#bean-mapping)
+    - [Build-构建](#build)
+    - [Bytecode Manipulation-字节码操作](#bytecode-manipulation)
+    - [Cluster Management-集群管理](#cluster-management)
+    - [Code Analysis-代码分析](#code-analysis)
+    - [Code Coverage-代码覆盖](#code-coverage)
+    - [Command-line Argument Parsers-命令行参数解析](#command-line-argument-parsers)
+    - [Compiler-compiler-编译器](#compiler-compiler)
+    - [Configuration-配置管理](#configuration)
     - [Constraint Satisfaction Problem Solver](#constraint-satisfaction-problem-solver)
     - [Continuous Integration](#continuous-integration)
     - [CSV](#csv)
@@ -110,7 +110,6 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Apache Maven](http://maven.apache.org/) - Declarative build and dependency management which favors convention over configuration. It might be preferable to Apache Ant which uses a rather procedural approach and can be difficult to maintain.
 * [Bazel](http://bazel.io) - Build tool from Google that builds code quickly and reliably.
 * [Gradle](http://gradle.org/) - Incremental builds which are programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
-
 ## Bytecode Manipulation
 
 *Libraries to manipulate bytecode programmatically.*
