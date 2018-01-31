@@ -107,9 +107,10 @@ Java相关的库/框架/软件
 
 *Tools which handle the build cycle and dependencies of an application.*
 
-* [Apache Maven](http://maven.apache.org/) - Declarative build and dependency management which favors convention over configuration. It might be preferable to Apache Ant which uses a rather procedural approach and can be difficult to maintain.
-* [Bazel](http://bazel.io) - Build tool from Google that builds code quickly and reliably.
-* [Gradle](http://gradle.org/) - Incremental builds which are programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
+* [Apache Maven](http://maven.apache.org/) - java标准构建工具
+* [Bazel](http://bazel.io) - google的构建工具
+* [Gradle](http://gradle.org/) -基于Groovy取代xml的构建工具
+* 
 ## Bytecode Manipulation
 
 *Libraries to manipulate bytecode programmatically.*
@@ -529,7 +530,7 @@ Java相关的库/框架/软件
 
 ## ORM
 
-*APIs which handle the persistence of objects.*
+*ORM持久化*
 
 * [Ebean](http://ebean-orm.github.io/) - Provides simple and fast data access.
 * [EclipseLink](https://www.eclipse.org/eclipselink/) - Supports a number of persistence standards: JPA, JAXB, JCA and SDO.
