@@ -92,9 +92,9 @@ Java相关的库/框架/软件
 * [TestNG](http://testng.org/) - Testing framework.
 * [Trove](http://trove.starlight-systems.com/) - Primitive collections.
 
-## Bean Mapping
+## Bean Mapping-Bean映射
 
-*Frameworks that ease bean mapping.*
+*bean映射相关的框架.*
 
 * [Dozer](https://github.com/DozerMapper/dozer/) - Mapper that copies data from one object to another, using annotations, API or XML configuration.
 * [JMapper](http://jmapper-framework.github.io/jmapper-core/) - Using byte code manipulation for lightning fast mapping. Supporting annotations, API or XML configuration.
@@ -381,11 +381,11 @@ Java相关的库/框架/软件
 
 ## IDE
 
-*Integrated development environments that try to simplify several aspects of development.*
+*集成开发工具.*
 
-* [Eclipse](http://www.eclipse.org/) - Established, open-souce project with support for lots of plugins and languages.
-* [IntelliJ IDEA](http://www.jetbrains.com/idea/) - Supports a lot of JVM languages and provides good options for Android development. The commercial edition targets the enterprise sector.
-* [NetBeans](https://netbeans.org/) - Provides integration for several Java SE and EE features from database access to HTML5.
+* [Eclipse](http://www.eclipse.org/) - 开源集成开发环境.
+* [IntelliJ IDEA](http://www.jetbrains.com/idea/) -支持很多JVM语言的IDE，有社区版本和商业版本.
+* [NetBeans](https://netbeans.org/) - JAVA SE和JAVA EE的开发环境.
 
 ## Imagery
 
