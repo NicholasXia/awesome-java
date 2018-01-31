@@ -38,7 +38,6 @@ Java相关的库/框架/软件
     - [JSON](#json)
     - [JVM and JDK](#jvm-and-jdk)
     - [Logging](#logging)
-
     - [Machine Learning-机器学习](#machine-learning)
     - [Messaging-消息](#messaging)
     - [Miscellaneous-杂项](#miscellaneous)
@@ -75,7 +74,6 @@ Java相关的库/框架/软件
     - [Server](#server)
     - [Template Engine](#template-engine)
     - [Version Managers](#version-managers)
-    -
 - [Resources](#resources)
     - [Awesome Lists](#awesome-lists)
     - [Communities](#communities)
@@ -104,17 +102,11 @@ Java相关的库/框架/软件
 
 *Tools that handle the build cycle and dependencies of an application.*
 
-<<<<<<< HEAD
+
 * [Apache Maven](http://maven.apache.org/) - java标准构建工具
 * [Bazel](http://bazel.io) - google的构建工具
 * [Gradle](http://gradle.org/) -基于Groovy取代xml的构建工具
-*
-=======
-* [Apache Maven](https://maven.apache.org/) - Declarative build and dependency management that favors convention over configuration. It might be preferable to Apache Ant, which uses a rather procedural approach and can be difficult to maintain.
-* [Bazel](https://bazel.io) - Tool from Google that builds code quickly and reliably.
-* [Gradle](https://gradle.org/) - Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
 
->>>>>>> akullpp/master
 ## Bytecode Manipulation
 
 *Libraries to manipulate bytecode programmatically.*
@@ -444,15 +436,9 @@ Java相关的库/框架/软件
 
 *集成开发工具.*
 
-<<<<<<< HEAD
 * [Eclipse](http://www.eclipse.org/) - 开源集成开发环境.
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) -支持很多JVM语言的IDE，有社区版本和商业版本.
 * [NetBeans](https://netbeans.org/) - JAVA SE和JAVA EE的开发环境.
-=======
-* [Eclipse](https://www.eclipse.org/) - Established open-source project with support for lots of plugins and languages.
-* [IntelliJ IDEA ![c]](https://www.jetbrains.com/idea/) - Supports many JVM languages and provides good options for Android development. The commercial edition targets the enterprise sector.
-* [NetBeans](https://netbeans.org/) - Provides integration for several Java SE and EE features, from database access to HTML5.
->>>>>>> akullpp/master
 
 ## Imagery
 
@@ -645,11 +631,8 @@ Java相关的库/框架/软件
 
 ## ORM
 
-<<<<<<< HEAD
 *ORM持久化*
-=======
-*APIs that handle the persistence of objects.*
->>>>>>> akullpp/master
+
 
 * [Apache Cayenne](https://cayenne.apache.org/) - Provides a clean, static API for data access. Also includes a GUI Modeler for working with database mappings, and DB reverse engineering and generation.
 * [Ebean](https://ebean-orm.github.io/) - Provides simple and fast data access.
