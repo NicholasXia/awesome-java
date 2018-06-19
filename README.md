@@ -1,51 +1,50 @@
-# Awesome Java [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+c# Awesome Java [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Java相关的库/框架/软件
 - [Awesome Java](#awesome-java)
-    - [Bean Mapping](#bean-mapping)
-    - [Build](#build)
-    - [Bytecode Manipulation](#bytecode-manipulation)
-    - [Caching](#caching)
-    - [Cluster Management](#cluster-management)
-    - [Code Analysis](#code-analysis)
-    - [Code Coverage](#code-coverage)
-    - [Code Generators](#code-generators)
-    - [Command-line Argument Parsers](#command-line-argument-parsers)
-    - [Compiler-compiler](#compiler-compiler)
-    - [Configuration](#configuration)
-    - [Constraint Satisfaction Problem Solver](#constraint-satisfaction-problem-solver)
-    - [CSV](#csv)
-    - [Data structures](#data-structures)
-    - [Database](#database)
-    - [Date and Time](#date-and-time)
-    - [Dependency Injection](#dependency-injection)
-    - [Development](#development)
-    - [Distributed Applications](#distributed-applications)
-    - [Distributed Transactions](#distributed-transactions)
-    - [Distribution](#distribution)
+    - [Bean Mapping-Bean映射](#bean-mapping)
+    - [Build-构建](#build)
+    - [Bytecode Manipulation-字节码操作](#bytecode-manipulation)
+    - [Caching-缓存](#caching)
+    - [Cluster Management-集群管理](#cluster-management)
+    - [Code Analysis-代码分析](#code-analysis)
+    - [Code Coverage-代码覆盖率](#code-coverage)
+    - [Code Generators-代码生成](#code-generators)
+    - [Command-line Argument Parsers-命令行解析](#command-line-argument-parsers)
+    - [Compiler-compiler-编译器](#compiler-compiler)
+    - [Configuration-配置](#configuration)
+    - [CSV-CSV](#csv)
+    - [Data structures-数据结构](#data-structures)
+    - [Database-数据库](#database)
+    - [Date and Time-日期和时间](#date-and-time)
+    - [Dependency Injection-依赖注入](#dependency-injection)
+    - [Development-开发](#development)
+    - [Distributed Applications-分布式应用](#distributed-applications)
+    - [Distributed Transactions-分布式事务](#distributed-transactions)
+    - [Distribution-发布](#distribution)
     - [Document Processing-文档解析](#document-processing)
-    - [Formal Verification](#formal-verification)
+    - [Formal Verification-格式校验](#formal-verification)
     - [Functional Programming-函数式编程](#functional-programming)
     - [Game Development-游戏开发](#game-development)
     - [Geospatial-地理位置](#geospatial)
-    - [GUI](#gui)
-    - [High Performance](#high-performance)
-    - [HTTP Clients](#http-clients)
-    - [Hypermedia Types](#hypermedia-types)
-    - [IDE](#ide)
-    - [Imagery](#imagery)
-    - [JSON Processing](#json-processing)
-    - [JSON](#json)
-    - [JVM and JDK](#jvm-and-jdk)
-    - [Logging](#logging)
+    - [GUI-界面](#gui)
+    - [High Performance-高性能](#high-performance)
+    - [HTTP Clients-HTTP客户端](#http-clients)
+    - [Hypermedia Types-超媒体类型](#hypermedia-types)
+    - [IDE-IDE](#ide)
+    - [Imagery-图片](#imagery)
+    - [JSON Processing-JSON处理](#json-processing)
+    - [JSON-JSON](#json)
+    - [JVM and JDK-JVM和JDK](#jvm-and-jdk)
+    - [Logging-日志](#logging)
     - [Machine Learning-机器学习](#machine-learning)
     - [Messaging-消息](#messaging)
     - [Miscellaneous-杂项](#miscellaneous)
     - [Monitoring-监控](#monitoring)
-    - [Messaging](#messaging)
-    - [Microservice](#microservice)
-    - [Miscellaneous](#miscellaneous)
-    - [Monitoring](#monitoring)
+    - [Messaging-消息队列](#messaging)
+    - [Microservice-微服务](#microservice)
+    - [Miscellaneous-杂项](#miscellaneous)
+    - [Monitoring-监控](#monitoring)
     - [Native](#native)
     - [Natural Language Processing-自然语言处理](#natural-language-processing)
     - [Networking-网络](#networking)
@@ -66,24 +65,23 @@ Java相关的库/框架/软件
     - [Utility-工具](#utility)
     - [Web Crawling-web爬虫](#web-crawling)
     - [Web Frameworks-web开发框架](#web-frameworks)
-    - [REST Frameworks](#rest-frameworks)
-    - [Science](#science)
-    - [Search](#search)
-    - [Security](#security)
-    - [Serialization](#serialization)
-    - [Server](#server)
-    - [Template Engine](#template-engine)
-    - [Version Managers](#version-managers)
-- [Resources](#resources)
-    - [Awesome Lists](#awesome-lists)
-    - [Communities](#communities)
-    - [Frontends](#frontends)
+    - [REST Frameworks-REST框架](#rest-frameworks)
+    - [Science-科学](#science)
+    - [Search-搜索](#search)
+    - [Security-安全](#security)
+    - [Serialization-序列化](#serialization)
+    - [Server-服务器](#server)
+    - [Template Engine-模板引擎](#template-engine)
+    - [Version Managers-版本管理](#version-managers)
+- [Resources-资源](#resources)
+    - [Awesome Lists-杂项列表](#awesome-lists)
+    - [Communities-社区](#communities)
+    - [Frontends-前端](#frontends)
     - [Influential Books-相关书籍](#influential-books)
-    - [Podcasts](#podcasts)
-    - [Podcasts and Screencasts](#podcasts-and-screencasts)
-    - [Twitter](#twitter)
+    - [Podcasts-播客](#podcasts)
+    - [Podcasts and Screencasts-播客/屏幕录像](#podcasts-and-screencasts)
+    - [Twitter-社交](#twitter)
     - [Websites-网站](#websites)
-- [Contributing](#contributing)
 
 - - -
 
@@ -198,13 +196,6 @@ Java相关的库/框架/软件
 * [KAConf](https://github.com/mariomac/kaconf) - Annotation-based configuration system for Java and Kotlin.
 * [owner](https://github.com/lviggiano/owner) - Reduces boilerplate of properties.
 
-## Constraint Satisfaction Problem Solver
-
-*Libraries that help with implementing optimization and satisfiability problems.*
-
-* [Choco](http://choco-solver.org/) - Off-the-shelf constraint satisfaction problem solver that uses constraint programming techniques.
-* [JaCoP](https://github.com/radsz/jacop/) - Includes an interface for the FlatZinc language, enabling it to execute MiniZinc models.
-* [OptaPlanner](https://www.optaplanner.org/) - Business planning and resource scheduling optimization solver.
 
 ## CSV
 
@@ -1022,11 +1013,3 @@ Java相关的库/框架/软件
 * [TheServerSide.com](http://www.theserverside.com/)
 * [Vanilla Java](https://vanilla-java.github.io/)
 * [Voxxed](https://www.voxxed.com/)
-
-# Contributing
-
-Contributions are very welcome!
-
-Please have a look at the [CONTRIBUTING](https://github.com/akullpp/awesome-java/blob/master/CONTRIBUTING.md) guidelines.
-
-[c]: https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg
