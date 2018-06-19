@@ -1,5 +1,3 @@
-c# Awesome Java [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 Java相关的库/框架/软件
 - [Awesome Java](#awesome-java)
     - [Bean Mapping-Bean映射](#bean-mapping)
